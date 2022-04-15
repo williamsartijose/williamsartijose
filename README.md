@@ -1,4 +1,4 @@
-## Olá eu sou o William Sarti, Sou Desenvolvedor - Full stack e também atuo na área acadêmica como Professor do Estado de São Paulo
+## Olá eu sou o William Sarti, Sou Desenvolvedor - Full stack e também atuo na área acadêmica como Professor do Estado de São Paulo na ETEC
 <div align="center">
   <a href="https://github.com/williamsartijose">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamsartijose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
