@@ -19,12 +19,14 @@
 </p>
 	
 <p align="center"> 
-  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f9.svg" alt="Portugal" width="15" height="15"/> Living in Portugal |
-  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1f8.svg" alt="Spain" width="15" height="15"/> Master in AI in Spain |
-  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f7.svg" alt="Brazil" width="15" height="15"/> Computer Scientist & Teacher in Brazil |
+  <img src="https://cdn.jsdelivr.net/npm/twemoji@11.3.0/2/svg/1f1f5-1f1f9.svg" alt="Portugal" width="15" height="15"/> Living in Portugal |
+  <img src="https://cdn.jsdelivr.net/npm/twemoji@11.3.0/2/svg/1f1ea-1f1f8.svg" alt="Spain" width="15" height="15"/> Master in AI in Spain |
+  <img src="https://cdn.jsdelivr.net/npm/twemoji@11.3.0/2/svg/1f1e7-1f1f7.svg" alt="Brazil" width="15" height="15"/> Computer Scientist & Teacher in Brazil |
   🔧 Owner @wsjsolucaodigital & @wsjinformatica
 </p>
-</p>
+
+
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
